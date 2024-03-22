@@ -1,12 +1,12 @@
 {
-  "name": "@whppt/form-builder",
+  "name": "@svelte-studios/form-builder",
   "version": "2.3.7",
   "description": "Whppt form builder modules for use with the nuxt framework",
-  "repository": "https://github.com/whpptjs/form-builder",
+  "repository": "https://github.com/svelte-studios/form-builder",
   "license": "MIT",
   "contributors": [
     {
-      "name": "lucas <info@sveltestudios.com>"
+      "name": "civocr <info@sveltestudios.com>"
     }
   ],
   "files": [
