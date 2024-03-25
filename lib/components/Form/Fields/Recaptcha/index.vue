@@ -15,7 +15,7 @@
 
 <script>
 import { mapGetters } from 'vuex';
-import FieldLabel from '@whppt/form-builder/lib/components/Form/Fields/FieldLabel';
+import FieldLabel from '@pixelforcesystems/form-builder/lib/components/Form/Fields/FieldLabel';
 import RecaptchaControl from './Control';
 
 export default {
